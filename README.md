@@ -37,7 +37,7 @@ Specific Bits:
 
 Ignoring the LED light, depending on the outline shape you chose, the finished milling process should look something like this:
 
-// insert image of finished milling
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/bc0ea1fe-26d2-4424-b50e-c1409a6453c9" />
 
 # Step 4: Soldering
 
@@ -62,7 +62,7 @@ Additionally, some other tips:
 
 The finished product should look something like this:
 
-// insert image
+![lit_up_heart-portfolio](https://github.com/user-attachments/assets/7e2cc7c5-463b-412a-8bed-c3a7e51b4614)
 
 Note: Because I didn't connect power to anything, I had to separately solder a wire in place, but if you do your schematic right, this shouldn't be the case. 
 
